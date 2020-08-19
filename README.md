@@ -1,10 +1,9 @@
 <h1><p align="center">
-Workshop elaborado para el cliente ABC
-  <h2><br><a href="https://www.opennova.pe/"><strong>OpenNova Training </strong></a>
-  <br>
-  <br>
+<br>Workshop elaborado para el cliente ABC
+<br><a href="https://www.opennova.pe/"><strong>OpenNova Training </strong></a>
+<br>
 </p>
-  </h1>
+</h1>
 
 <h3>Red Hat Satellite</h3>
 
