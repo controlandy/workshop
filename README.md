@@ -7,4 +7,4 @@ Workshop elaborado para el cliente ABC  <br>
 
 Red Hat Satellite
 
-Red Hat Identity Management
+Red Hat Identity Management <a href="idm/README.md">
