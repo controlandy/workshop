@@ -12,8 +12,8 @@ Workshop elaborado para el cliente ABC  <br>
 </p>
 
 
-# Alcance
+<h1>Alcance</h1>
 
 Manual de procedimientos del workshop de la solución Red Hat Identity Management versión X sobre plataforma Red Hat Enterprise Linux 8.2
 
-# Tabla de contenidos
+<h1>Tabla de contenidos</h1>
