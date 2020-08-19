@@ -1,3 +1,4 @@
+<h1>Entendimiento y visualización del proceso de instalación</h1>
 <strong>Meta:</strong>
 Entender el proceso de instalación de la solución Red Hat Identity Management así como el diseño básico para una correcta implementación.
 
