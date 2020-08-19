@@ -1,14 +1,15 @@
 <strong>Meta:</strong>
+Entender el proceso de instalación de la solución Red Hat Identity Management así como el diseño básico para una correcta implementación.
 
-Entender los conceptos y procedimientos necesarios para la creacion y administracion de particiones linux.
-Objetivos:
+<strong>Objetivos:</strong>
 
-Administrar particiones linux simples
-Administrar particiones swap
+<br>- Implementar Red Hat Identity Management
+<br>- Actualizar la instalacion de Red Hat Identity Management
+
 Secciones:
 
-Particionamiento, formateo y montaje persistente de particiones linux simples.(Teorico - Practico)
-Particionamient, formateo y montaje persisten de particiones swap.(Teorico - Practico)
-Laboratorio:
+<br>- Particionamiento, formateo y montaje persistente de particiones linux simples.(Teorico - Practico)
+<br>- Particionamient, formateo y montaje persisten de particiones swap.(Teorico - Practico)
 
-Caso practico de creacion de particiones linux y swap.
+Laboratorio:
+<br>- Caso practico de creacion de particiones linux y swap.
