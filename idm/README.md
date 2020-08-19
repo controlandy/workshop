@@ -12,20 +12,8 @@ Workshop elaborado para el cliente ABC  <br>
 </p>
 
 
-## Alcance
+# Alcance
 
 Manual de procedimientos del workshop de la solución Red Hat Identity Management versión X sobre plataforma Red Hat Enterprise Linux 8.2
 
-## Tabla de contenidos
-
-- [Requisitos](#requisitos)
-- [Proceso de instalación](#proceso-de-instalación)
-- [Configuración del servicio](#configuración-del-servicio)
-- [Bugs and feature requests](#bugs-and-feature-requests)
-- [Documentation](#documentation)
-- [Contributing](#contributing)
-- [Community](#community)
-- [Versioning](#versioning)
-- [Creators](#creators)
-- [Thanks](#thanks)
-- [Copyright and license](#copyright-and-license)
+# Tabla de contenidos
