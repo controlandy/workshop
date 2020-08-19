@@ -1,5 +1,5 @@
 <p align="center">
-   <a href="https://github.com/controlandy/idm/blob/master/README.md">
+   <a href="../README.md">
     <img src="content/idm.png" alt="IDM logo">
   </a>
 </p>
