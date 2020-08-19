@@ -18,7 +18,7 @@ Manual de procedimientos del workshop de la solución Red Hat Identity Managemen
 
 <h2>Tabla de contenidos</h2>
 <br>- Introducción a Red Hat IDM
-<br>- Entendimiento y visualización del proceso de instalación
+<br><a href="../capitulo01/README.md">- Entendimiento y visualización del proceso de instalación</a>
 <br>- Navegación por la UI de Red Hat IDM y conocimiento de sus componentes
 <br>- Creación de usuarios y políticas de usuario
 <br>- Creación de registros en el DNS de IDM
