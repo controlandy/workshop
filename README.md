@@ -5,6 +5,6 @@ Workshop elaborado para el cliente ABC  <br>
   <br>
 </p>
 
-## Red Hat Satellite
+Red Hat Satellite
 
-## Red Hat Identity Management
+Red Hat Identity Management
